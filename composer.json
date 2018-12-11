@@ -13,7 +13,9 @@
     "require": {
         "hhvm": ">=3.28",
         "hhvm/type-assert": "^3",
-        "hhvm/hsl": "^3.28"
+        "hhvm/hsl": "^3.28",
+        "facebook/hack-router": "^0.17",
+        "usox/hackttp": "^0.1"
     },
     "require-dev": {
         "usox/hackmock": "^1",
